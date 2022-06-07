@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the t has survived 
+=======
+Lorem Ipsum is simply dummy tuding versions of Lorem Ipsum.
+It is a long esta
+>>>>>>> different-ipsum
